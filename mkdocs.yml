@@ -1,3 +1,4 @@
-site_name: Aliyun 计算巢 x Demo
+site_name: Aliyun 计算巢 x nginx-kubeblocks-demo
 theme: 
   name: aliyuncomputenest
+docs_dir: .computenest/docs

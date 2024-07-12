@@ -10,7 +10,7 @@ Service:
       UserType: Aliyun
       SupplierTemplateConfigs:
         - Name: nginx
-          Url: 'templates/template.yaml'
+          Url: 'ros_templates/template.yaml'
           PredefinedParameters:
             - Name: 低配版
               Description: 1c1g

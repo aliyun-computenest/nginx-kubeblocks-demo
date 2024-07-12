@@ -1,6 +1,6 @@
 # Default values for openldap.
 # This is a YAML-formatted file.
-# Declare variables to be passed into your templates.
+# Declare variables to be passed into your ros_templates.
 
 image:
   fullname: nginx:latest
